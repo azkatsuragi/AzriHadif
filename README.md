@@ -8,6 +8,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4DFB6&size=24&center=true&vCenter=true&width=1000&lines=Welcome+to+my+page!;A+passionate+coder,+avid+learner,+and+tech+enthusiast;On+a+never-ending+quest;for+knowledge+and+innovation;Welcome+to+my+digital+sanctuary+on+GitHub!)](https://git.io/typing-svg)
 
+<p>
+  Hello, my name is Mohamad Azri Hadif bin Mohammad Rizal and I goes by Azri. I'm currently in my 3rd years of bachelor degree in Computer Science major in Data Engineering.
+</p>
+
+# My Stats
 <table>
   <tr>
     <td>
@@ -16,7 +21,9 @@
     <td>
       <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=azkatsuragi&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
     </td>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=azkatsuragi&theme=darcula&hide_border=true&background=FFFFFF00">
+    <td>
+      <img src ="https://github-readme-streak-stats.herokuapp.com?user=azkatsuragi&theme=darcula&hide_border=true&background=FFFFFF00">
+    </td>
   </tr>
 </table>
 
