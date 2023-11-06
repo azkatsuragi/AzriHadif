@@ -38,7 +38,7 @@
           <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=azkatsuragi&show_icons=true&count_private=true&theme=dark-smoky&hide_border=true&hide=issues,contribs&bg_color=00000000">
     </td>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkatsuragi&layout=compact)
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
     </td>
     <td>
       <img src ="https://github-readme-streak-stats.herokuapp.com?user=azkatsuragi&theme=dark-smoky&hide_border=true&background=FFFFFF00">
